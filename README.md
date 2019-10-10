@@ -1,2 +1,3 @@
 # ss_port_change
-change ss port
+修改ss配置与Centos7的Firewall策略脚本
+注意是否需要修改config路径与ss服务的名
